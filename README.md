@@ -1,1 +1,1 @@
-# Reposit_Tutorial
+# rsschool-cv
